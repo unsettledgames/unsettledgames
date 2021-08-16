@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nicola, computer science student who likes to work on too many side projects and share their source online. My main field of interest consists in video games and anything that remotely feels like a creative way to use CS.
+I'm Nicola, computer science student who likes working on too many side projects and share their source online. My main field of interest consists in video games and anything that remotely feels like a creative way to use CS.
 
 [I also make pixel art!](https://twitter.com/_unsettled_)
 
