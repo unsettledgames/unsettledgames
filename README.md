@@ -4,7 +4,7 @@ I'm Nicola, computer science student who likes working on too many side projects
 
 [I also make pixel art!](https://twitter.com/_unsettled_)
 
-[![Unsettled's GitHub stats](https://github-readme-stats.vercel.app/api?username=unsettledgames)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Unsettled's GitHub stats](https://github-readme-stats.vercel.app/api?username=unsettledgames)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 **unsettledgames/unsettledgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
